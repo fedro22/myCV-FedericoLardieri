@@ -6,10 +6,12 @@ Carbonia, Sardegna
 
 📧 federico.lardieri22@gmail.com
 
+🚗 **Patente B**
+
 
 ## Profilo professionale
-1. Studente al quinto anno di Scuola superiore (Liceo Scienze applicate).
-2. Studente AuLab per diventare Sviluppatore Web specializzato in Cybersecurity.
+1. 🏫 Studente al quinto anno di Scuola superiore (Liceo Scienze applicate).
+2. 💻 Studente AuLab per diventare Sviluppatore Web specializzato in Cybersecurity.
 
 Attitudine all'ascolto, capacità di apprendimento rapido e
 grinta accompagnati ad una naturale propensione per il
@@ -53,7 +55,15 @@ dei Software applicativi Numbers
 - [x] capacità nella guida di veicoli sia
 a combustibile che elettrici
 - [x] Problem solving
-      
+
+### Lingue
+
+| Italiano | Inglese |
+| ----------- | ----------- |
+| Madrelingua | B2 |
+
+
+
 
 
 
