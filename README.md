@@ -1,7 +1,9 @@
 # Federico Lardieri
 ### Dati Personali
 22 anni 
+
 Carbonia, Sardegna
+
 📧 federico.lardieri22@gmail.com
 
 
