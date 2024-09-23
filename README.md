@@ -1,4 +1,9 @@
 # Federico Lardieri
+### Dati Personali
+22 anni 
+Carbonia, Sardegna
+📧 federico.lardieri22@gmail.com
+
 
 ## Profilo professionale
 1. Studente al quinto anno di Scuola superiore (Liceo Scienze applicate).
